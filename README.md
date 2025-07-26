@@ -4,7 +4,7 @@
 <h3 align="center">Full-Stack Developer | Code Craftsman | Continuous Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=480&lines=Turning+ideas+into+reality+with+code.;Full-Stack+Developer+with+a+love+for+problem+solving.;Building+scalable+and+elegant+solutions." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=480&lines=Turning+ideas+into+reality+with+code.;Code Craftsman.;Building+scalable+solutions." alt="Typing Animation" />
 </p>
 
 ---
