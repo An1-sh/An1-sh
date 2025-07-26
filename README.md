@@ -49,7 +49,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=An1-sh&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
